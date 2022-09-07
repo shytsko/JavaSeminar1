@@ -1,0 +1,62 @@
+$RECYCLE.BIN
+123
+Buses.jpg
+DispStation.jpg
+Drivers.jpg
+eclipse-workspace
+GPU-Z Sensor Log.txt
+iVMS-4200alarmPicture
+ModelBuses.jpg
+PlanedServices.jpg
+projects_py
+Routes.jpg
+RouteStops.jpg
+screenshot.jpg
+screenshot1.jpg
+screenshot2.jpg
+screenshot3.jpg
+screenshot4.jpg
+screenshot5.jpg
+screenshot6.jpg
+Screenshot_1.png
+Screenshot_2.png
+Shedule.jpg
+Stops.jpg
+System Volume Information
+Task1 screenshot.jpg
+Task2 screenshot.jpg
+Task3 screenshot.jpg
+Virtual Machines
+Без имени.png
+Введение в контроль версий. Семинар 3. ДЗ.jpg
+Гардеробная.jpg
+Договор новый поставки в салон Elfa на ИП Хитро ЕВ_в долларах США.docx
+Загрузки
+Новая папка
+Отчет 2.doc
+Отчет 3 (вакцинация).doc
+Отчет.docx
+Отчет.xlsx
+перечень отходов.xlsx
+По вакцинации.docx
+Положение по СУОТ 2021.docx
+Потолок.frw
+Потолок.frw.bak
+Потолок.jpg
+Приложения к письму 01-13_305.rar
+Сканы
+Снимок экрана 2022-03-31 195644.jpg
+Снимок экрана 2022-04-04 075243.jpg
+Снимок экрана 2022-04-11 в 22.27.20.png
+Снимок экрана 2022-04-12 073301.jpg
+Снимок экрана 2022-04-12 194121.jpg
+Снимок экрана 2022-04-23 111657.jpg
+Снимок экрана 2022-05-05 174749.jpg
+Снимок экрана 2022-05-05 231946.jpg
+Снимок экрана 2022-05-12 223412.jpg
+Снимок экрана 2022-05-27 003402.jpg
+Снимок экрана 2022-07-10 095815.jpg
+Спецификация.xlsx
+Спецодежда2.xlsx
+Химия.docx
+Шаблон ИОТ.docx
