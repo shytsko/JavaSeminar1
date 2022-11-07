@@ -9,6 +9,13 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception1/Task2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception1/Task3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception2/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception3/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception3/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception3/MyArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception3/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception3/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/by/Exception3/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
@@ -57,7 +64,33 @@
       <recent name="by.OOP3.Task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.by.Exception2.Task1">
+  <component name="RunManager" selected="Application.Counter">
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.Exception3.Counter" />
+      <module name="seminar1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.Exception3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.OOP3.Task1.Task1" />
+      <module name="JavaSeminar1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.OOP3.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.OOP3.Task2.Task2" />
       <module name="JavaSeminar1" />
@@ -123,6 +156,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="by.Exception3.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.Exception3.Task1" />
+      <module name="seminar1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.Exception3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.by.Exception2.Task1" />
@@ -130,6 +176,11 @@
         <item itemvalue="Application.by.Exception1.Task2" />
         <item itemvalue="Application.by.Exception1.Task1" />
         <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.by.Exception3.Task1" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Worker2" />
       </list>
     </recent_temporary>
   </component>
